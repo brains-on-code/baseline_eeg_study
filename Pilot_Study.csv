@@ -1,0 +1,82 @@
+﻿Name of the task;The type of the task;the mean response time;the second quartile of the response time (50% needed at least X seconds);the third quartile of the response time (75% needed at least X seconds);The percentage of correct answers for this task;The response time is suitable if 50% needed at least 10 seconds and 75% needed less than 70 seconds. (not too fast nor to slow);The correctness rate should be at least 70%.;Selected for EEG and Eyetracking Study?
+Task;Task Type;Mean Time (s);q2 (s);q3 (s);correct rate (%);is response time suitable?;is correctness high enough?;EEG Study?
+CountVowels;ProgCompr;32.70;29.25;44.56;95.12%;Yes;Yes;yes original
+Palindrome;ProgCompr;43.53;39.91;54.81;92.31%;Yes;Yes;yes original
+Factorial;ProgCompr;19.17;16.89;22.99;90.70%;Yes;Yes;yes original
+Hurricane;ProgCompr;35.16;31.93;45.18;84.62%;Yes;Yes;yes original
+YesNo;ProgCompr;29.65;29.03;36.54;84.62%;Yes;Yes;yes original
+Fibonacci;ProgCompr;36.99;34.14;42.46;81.40%;Yes;Yes;yes original
+CrossSum;ProgCompr;40.16;32.54;50.51;79.49%;Yes;Yes;yes original
+Power;ProgCompr;42.90;34.38;48.40;79.07%;Yes;Yes;yes original
+ArrayAverage;ProgCompr;48.41;43.89;63.93;83.72%;Yes;Yes;yes original
+SquareRoot;ProgCompr;50.07;42.33;61.79;79.07%;Yes;Yes;yes original
+Prime;ProgCompr;52.14;45.01;65.64;79.07%;Yes;Yes;yes original
+BinaryToDecimal;ProgCompr;57.40;50.18;63.75;79.07%;Yes;Yes;yes original
+ForwardBackward;ProgCompr;50.26;40.36;61.28;72.09%;Yes;Yes;yes original
+DumbSort;ProgCompr;72.86;66.66;93.17;80.49%;No;Yes;yes simplified
+EverySecondChar;ProgCompr;52.94;36.41;50.62;60.47%;Yes;No;yes simplified
+AlwaysZero;ProgCompr;38.65;33.78;42.44;58.97%;Yes;No;yes simplified
+LCM;ProgCompr;61.31;48.34;68.18;65.12%;Yes;No;yes simplified
+ContainSubstring;ProgCompr;118.63;87.73;170.31;69.05%;No;No;yes simplified
+Fast;ProgCompr;93.19;78.81;116.37;65.12%;No;No;yes simplified
+CountLastWord;ProgCompr;91.27;80.38;114.56;48.72%;No;No;yes simplified
+Artificial Intelligence;Read;22.32;20.90;28.04;97.67%;Yes;Yes;Yes
+Geology;Read;18.91;17.73;22.21;97.67%;Yes;Yes;Yes
+Diary;Read;18.51;15.79;22.88;95.35%;Yes;Yes;Yes
+Graffiti;Read;18.01;16.53;21.44;95.35%;Yes;Yes;Yes
+Transportation;Read;33.22;22.61;38.36;95.12%;Yes;Yes;Yes
+Planet;Read;18.07;16.68;21.03;90.70%;Yes;Yes;Yes
+Frost;Read;17.26;15.20;19.89;90.70%;Yes;Yes;Yes
+Protein;Read;26.47;27.42;34.35;89.74%;Yes;Yes;No
+Cartoon;Read;21.56;19.76;25.82;88.37%;Yes;Yes;No
+Acting;Read;28.53;23.96;36.80;84.62%;Yes;Yes;No
+Planetarium;Read;24.42;21.41;30.86;84.62%;Yes;Yes;No
+Blog;Read;26.37;22.40;31.97;79.07%;Yes;Yes;No
+Photosynthesis;Read;13.04;8.48;14.41;100.00%;No;Yes;No
+Sun;Read;12.07;9.89;14.76;100.00%;No;Yes;No
+Paralympic Games;Read;11.05;7.71;11.65;97.67%;No;Yes;No
+Microscope;Read;15.45;14.55;18.98;97.62%;Yes;Yes;No
+Gravity;Read;13.39;12.36;18.48;95.35%;Yes;Yes;No
+Biathlon;Read;13.63;10.34;15.59;95.35%;Yes;Yes;No
+Windmill;Read;14.25;12.70;19.71;71.79%;Yes;Yes;No
+Security System;Read;29.19;21.93;33.95;26.83%;Yes;No;No
+Medium 3;ProbSolv;18.62;15.90;21.51;93.02%;Yes;Yes;Yes
+Hard 2;ProbSolv;25.75;24.26;31.13;84.62%;Yes;Yes;Yes
+Hard 3;ProbSolv;39.51;33.77;54.76;81.40%;Yes;Yes;Yes
+Easy 1;ProbSolv;14.15;12.62;20.46;95.35%;Yes;Yes;Yes
+Medium 4;ProbSolv;14.87;11.65;19.42;95.35%;Yes;Yes;Yes
+Medium 1;ProbSolv;21.95;14.15;25.37;92.68%;Yes;Yes;Yes
+Easy 2;ProbSolv;12.06;10.50;14.29;90.24%;Yes;Yes;Yes
+Medium 5;ProbSolv;13.35;11.07;16.12;81.40%;Yes;Yes;No
+Easy 5;ProbSolv;16.32;13.29;19.03;79.07%;Yes;Yes;No
+Special 3;ProbSolv;24.85;22.24;29.79;74.42%;Yes;Yes;No
+Hard 4;ProbSolv;18.83;18.09;22.73;74.42%;Yes;Yes;No
+Easy 4;ProbSolv;9.86;8.42;11.68;100.00%;No;Yes;No
+Easy 7;ProbSolv;7.06;5.25;9.27;97.67%;No;Yes;No
+Easy 6;ProbSolv;9.57;7.23;12.48;88.37%;No;Yes;No
+Easy 3;ProbSolv;11.86;9.84;14.96;76.92%;No;Yes;No
+Special 4;ProbSolv;38.03;29.78;44.79;58.14%;Yes;No;No
+Special 1;ProbSolv;34.75;28.46;41.83;56.41%;Yes;No;No
+Medium 2;ProbSolv;43.84;19.57;34.23;51.28%;Yes;No;No
+Special 2;ProbSolv;59.83;45.45;86.50;56.41%;No;No;No
+Hard 1;ProbSolv;68.60;46.10;90.43;40.48%;No;No;No
+Math 16;Math;14.71;12.77;16.46;90.70%;Yes;Yes;Yes
+Math 10;Math;16.53;13.94;18.72;84.62%;Yes;Yes;Yes
+Math 1;Math;23.17;19.77;25.28;83.72%;Yes;Yes;Yes
+Math 13;Math;17.52;14.83;19.20;83.72%;Yes;Yes;Yes
+Math 2;Math;13.27;11.07;15.40;97.62%;Yes;Yes;Yes
+Math 9;Math;14.10;11.79;16.63;97.44%;Yes;Yes;Yes
+Math 12;Math;13.17;11.11;13.55;95.35%;Yes;Yes;Yes
+Math 6;Math;13.41;11.97;16.71;94.87%;Yes;Yes;No
+Math 8;Math;16.84;12.28;19.21;94.87%;Yes;Yes;No
+Math 14;Math;12.15;10.86;12.97;90.70%;Yes;Yes;No
+Math 18;Math;15.02;12.41;18.20;90.70%;Yes;Yes;No
+Math 17;Math;12.01;10.56;13.07;86.05%;Yes;Yes;No
+Math 5;Math;12.75;10.78;15.61;84.62%;Yes;Yes;No
+Math 3;Math;14.57;12.85;17.73;82.93%;Yes;Yes;No
+Math 20;Math;13.65;10.54;14.00;76.74%;Yes;Yes;No
+Math 11;Math;11.37;10.52;13.02;74.42%;Yes;Yes;No
+Math 4;Math;11.19;9.58;13.43;97.56%;No;Yes;No
+Math 15;Math;10.89;8.97;12.47;95.35%;No;Yes;No
+Math 19;Math;12.43;9.62;12.90;95.35%;No;Yes;No
+Math 7;Math;11.15;9.26;11.97;84.62%;No;Yes;No
