@@ -13,5 +13,5 @@ This repository contains:
     - averaged_total: Figure 8 in the paper and Figures for every task type individual
     - heatmaps: The heatmaps based on the eyetracking data for all tasks, divided into ProgCompr and Baselinetasks (averaged over all participants)
     - scanpaths: The scanpaths based on the eyetracking data for all tasks for all participants (not anonymized participant numbering)
-    - topoplots/total: Topoplots averaged over all participants for all task types and for ProgCompr with respect to all baselines
+    - topoplots: Topoplots averaged over all participants for all task types and for ProgCompr with respect to all baselines
 - the response times and correctness values of the pilotstudy: Pilot_Study.csv
