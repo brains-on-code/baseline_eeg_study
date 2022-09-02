@@ -15,4 +15,5 @@ This repository contains:
     - scanpaths: The scanpaths based on the eyetracking data for all tasks for all participants (not anonymized participant numbering)
     - topoplots: Topoplots averaged over all participants for all task types and for ProgCompr with respect to all baselines
 - the response times and correctness values of the pilotstudy: Pilot_Study.csv
+- the preregistration from osf.io: Preregistration.pdf
 - the questionnaire for demographic data and programming experience: Prequestionnaire.pdf
