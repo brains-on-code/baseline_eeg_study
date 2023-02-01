@@ -1,0 +1,11 @@
+1;2;D;Res
+Math;ProbSolv;-0.13856304985337242;negligible
+Math;CrossFix;0.047862575399947545;negligible
+Math;Read;-0.03225806451612903;negligible
+ProbSolv;CrossFix;0.18743532889874354;small
+ProbSolv;Read;0.12315340909090909;negligible
+CrossFix;Read;-0.08003048780487805;negligible
+ProgCompr;Math;0.19291652810109744;small
+ProgCompr;ProbSolv;0.04247422680412371;negligible
+ProgCompr;CrossFix;0.24911574888944765;small
+ProgCompr;Read;0.1882409793814433;small

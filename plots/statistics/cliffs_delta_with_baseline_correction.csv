@@ -1,0 +1,7 @@
+Baseline1;Baseline2;D;Res
+Math;ProbSolv;0.1774193548387097;small
+Math;CrossFix;-0.16325727773406767;small
+Math;Read;0.07560483870967742;negligible
+ProbSolv;CrossFix;-0.32313377679231337;small
+ProbSolv;Read;-0.12258522727272728;negligible
+CrossFix;Read;0.23107215447154472;small
