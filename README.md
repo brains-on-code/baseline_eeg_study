@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This repository contains the preregistration, replication package, analysis scripts, and additional plots and raw data for our paper:
+This repository contains the preregistration, replication package, analysis scripts, and additional plots and raw data for our paper.
 
 ## Pregistration
 
@@ -43,4 +43,11 @@ Finally, we provide extended versions of the figures used in the paper in `/plot
     
 We also provide the raw data of the response times and correctness values of the pilot study in `Pilot_Study.csv`.
 
+# License
+
+This repository is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
