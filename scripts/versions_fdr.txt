@@ -1,0 +1,6 @@
+Matplotlib: 3.5.1
+Numpy: 1.26.4
+Pandas: 1.4.2
+MNE: 1.7.1
+Scipy: 1.13.1
+SKLearn: 1.0.2
