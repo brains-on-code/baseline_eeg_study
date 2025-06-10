@@ -12,7 +12,7 @@ We preregistered this study at [osf](https://osf.io/h892p/). We also include thi
 
 We aim to provide everything necessary to replicate our study in this repository.  
 The data is stored on OSF: [Raw Data](https://osf.io/h892p/) (https://osf.io/h892p/)  
-If you encounter any problems with the this package, please contact the main author.  
+If you encounter any problems with this package, please contact the main author.  
 
 ### Experiment Setup
 
