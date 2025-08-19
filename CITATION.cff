@@ -19,3 +19,25 @@ authors:
 title: "On the Influence of the Baseline in Neuroimaging Experiments on Program Comprehension"
 version: 1.0.0
 url: "https://github.com/brains-on-code/baseline_eeg_study"
+preferred-citation:
+  authors:
+  - family-names: "Bergum"
+    given-names: "Annabelle"
+    orcid: "https://orcid.org/0000-0002-9953-4904"
+  - family-names: "Peitek"
+    given-names: "Norman"
+    orcid: "https://orcid.org/0000-0001-7828-4558"
+  - family-names: "Rekrut"
+    given-names: "Maurice"
+    orcid: "https://orcid.org/0000-0002-5829-5409"
+  - family-names: "Siegmund"
+    given-names: "Janet"
+    orcid: "https://orcid.org/0000-0002-5815-266X"
+  - family-names: "Apel"
+    given-names: "Sven"
+    orcid: "https://orcid.org/0000-0003-3687-2233"
+  title: "On the Influence of the Baseline in Neuroimaging Experiments on Program Comprehension"
+  type: article
+  journal: "Transactions on Software Engineering and Methodology"
+  year: 2025
+  doi: "https://www.doi.org/10.1145/3744739"
